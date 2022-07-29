@@ -1,0 +1,60 @@
+/* line 1, ../Proyectos MANU/Proyecto-indumentaria-deportiva-MANUEL-IRIGOIN/scss/index.scss */
+body {
+  background-color: lightgrey;
+  overflow-x: hidden;
+}
+
+/* line 4, ../Proyectos MANU/Proyecto-indumentaria-deportiva-MANUEL-IRIGOIN/scss/index.scss */
+body ul {
+  list-style: none;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+/* line 14, ../Proyectos MANU/Proyecto-indumentaria-deportiva-MANUEL-IRIGOIN/scss/index.scss */
+div h1 {
+  width: 100%;
+  color: black;
+  text-align: center;
+  padding: 0px;
+  font-size: 40px;
+}
+
+/* line 23, ../Proyectos MANU/Proyecto-indumentaria-deportiva-MANUEL-IRIGOIN/scss/index.scss */
+div h2 {
+  width: 100%;
+  color: darkred;
+  text-align: start;
+  font-size: 20px;
+  padding: 0px;
+}
+
+/* line 32, ../Proyectos MANU/Proyecto-indumentaria-deportiva-MANUEL-IRIGOIN/scss/index.scss */
+footer ul {
+  list-style: none;
+  text-align: left;
+  text-transform: none;
+  font-size: 14px;
+}
+
+/* line 41, ../Proyectos MANU/Proyecto-indumentaria-deportiva-MANUEL-IRIGOIN/scss/index.scss */
+article {
+  font-family: var(--bs-body-font-family);
+  font-size: var(--bs-body-font-size);
+  font-weight: var(--bs-body-font-weight);
+  line-height: var(--bs-body-line-height);
+  color: var(--bs-body-color);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 330px;
+  padding: 0px;
+  margin: auto;
+}
+
+/*# sourceMappingURL=index.css.map */
